@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "qqpay@^1.1.7",
+        "scope": null,
+        "escapedName": "qqpay",
+        "name": "qqpay",
+        "rawSpec": "^1.1.7",
+        "spec": ">=1.1.7 <2.0.0",
+        "type": "range"
+      },
+      "/Users/apple/project/wawaji/wawaji"
+    ]
+  ],
+  "_from": "qqpay@>=1.1.7 <2.0.0",
+  "_id": "qqpay@1.1.7",
+  "_inCache": true,
+  "_location": "/qqpay",
+  "_nodeVersion": "4.1.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/qqpay-1.1.7.tgz_1459353566069_0.2961023701354861"
+  },
+  "_npmUser": {
+    "name": "tvrcgo",
+    "email": "tvrcgo@gmail.com"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "qqpay@^1.1.7",
+    "scope": null,
+    "escapedName": "qqpay",
+    "name": "qqpay",
+    "rawSpec": "^1.1.7",
+    "spec": ">=1.1.7 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/qqpay/-/qqpay-1.1.7.tgz",
+  "_shasum": "ce9b9d331bba8952f5ef961ecdc913705aeb2652",
+  "_shrinkwrap": null,
+  "_spec": "qqpay@^1.1.7",
+  "_where": "/Users/apple/project/wawaji/wawaji",
+  "author": {
+    "name": "fooke"
+  },
+  "bugs": {
+    "url": "https://github.com/benjaminhxh/qqpay/issues"
+  },
+  "dependencies": {
+    "MD5": "^1.2.1",
+    "request": "^2.54.0",
+    "xml2js": "^0.4.6"
+  },
+  "description": "qq payment",
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "dist": {
+    "shasum": "ce9b9d331bba8952f5ef961ecdc913705aeb2652",
+    "tarball": "https://registry.npmjs.org/qqpay/-/qqpay-1.1.7.tgz"
+  },
+  "gitHead": "134277b6ef17d70141e5e15f87cf9cb5c04214dd",
+  "homepage": "https://github.com/benjaminhxh/qqpay",
+  "keywords": [
+    "qq",
+    "qq钱包",
+    "payment"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "fooke",
+      "email": "fooke@qq.com"
+    }
+  ],
+  "name": "qqpay",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminhxh/qqpay.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.7"
+}
